@@ -1,5 +1,5 @@
 {
-  "name": "01-github-explorer",
+  "name": "desafio02",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,8 +10,8 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "axios": "^0.21.1",
-    "json-server": "^0.16.3",
+    "axios": "^0.24.0",
+    "json-server": "^0.17.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-feather": "^2.0.9",
